@@ -1,4 +1,0 @@
-#Propiedades usadas
-
-accentColor
-primaryColorLight
